@@ -712,4 +712,4 @@ Hata bildirimleri ve geliştirme önerileri için issue açabilirsiniz.
 
 ## İletişim
 
-Sorularınız için GitHub üzerinden iletişime geçebilirsiniz.
+Sorularınız için GitHub ve anillemree@gmail.com üzerinden iletişime geçebilirsiniz.
